@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    font-family: arial;
+    color: white;
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 440px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
+
+.subdiv {
+    margin-left: 70px;
+}
+
+#rate {
+    position: relative;
+    top: 6px;
+    left: 12px;
+}
+
+#result {
+    display: none;
+}
+
+img {
+    position: relative;
+    top: 4px;
+}
+
+#principal {
+    position: relative;
+    left: 48px;
+}
+
+h1 {
+    color: grey;
+    font-family: verdana;
+    width: 475px;
+    font-size: 30px;
+}
+
+#years {
+    position: relative;
+    left: 18px;
+}
+
+#rate_val {
+    position: relative;
+    left: 15px;
+}
+
+#result {
+    display: none;
+}
